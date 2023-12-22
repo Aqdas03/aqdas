@@ -2,7 +2,16 @@
   "name": "aqdas",
   "displayName": "AQDAS",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "AqdasRafatKhan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aqdas03/aqdas"
+  },
+  "keywords": [
+    "aqdas",
+    "Dark Theme"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
